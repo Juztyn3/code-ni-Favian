@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  google-site-verification: google970f1294fb2ca9d0.html
   <meta name="google-site-verification" content="DwYFvllQckka1741Br1QlGlTPy0-sFLHFDzJ-nQrnIc" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
