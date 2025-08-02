@@ -5,6 +5,7 @@ You sent
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta name="google-site-verification" content="DwYFvllQckka1741Br1QlGlTPy0-sFLHFDzJ-nQrnIc" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Surprise Box</title>
